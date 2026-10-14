@@ -5,7 +5,7 @@ My current interests are:
 * Data Science
 * Machine learning 
 * Cybernetics
-* Maybe some game project here and there to test my learning
+* Maybe a little game project here and there to test my learning
 
 <hr>
 
